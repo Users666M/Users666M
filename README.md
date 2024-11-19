@@ -21,6 +21,9 @@
 - 💾 **Save & Export Playlists**: Export your playlists to a file for easy sharing.
 
 ---
+cd music-master
+npm install
+npm start
 
 ## 🚀 **Getting Started**
 
