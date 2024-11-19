@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Users666M
-- 👀 I’m interested in anything
+- 👋 Hi, I’m Basman Wahyudi
+- 👀 I’m interested in Learning Cyber security/Data analysist
 - 🌱 I’m currently learning phyton
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate 
 - ⚡ Fun fact: im a guy
 
 
